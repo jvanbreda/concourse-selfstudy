@@ -9,4 +9,4 @@ inputs:
   - name: folder
 
 run:
-  path: ./task_show_uname.sh
+  path: ./folder/task_show_uname.sh
